@@ -1,0 +1,19 @@
+baseurl = "http://booneseverson.github.io"
+languageCode = "en-us"
+title = "Boone Severson"
+theme = "hugo-zen"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+canonifyurls = true
+
+[indexes]
+  category = "categories"
+
+#  email = "boone.severson@gmail.com"
+#  facebook = "https://www.facebook.com/booneseverson"
+[params]
+  copyright = "2016 Boone Severson"
+  analytics = "UA-71889596-1"
+  logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Emoji_u1f64c.svg/128px-Emoji_u1f64c.svg.png"
