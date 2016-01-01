@@ -7,4 +7,5 @@ indexes:
 baseurl: "http://booneseverson.github.io"
 title: "Boone Severson"
 canonifyurls: true
-...
+languageCode: "en-us"
+---
