@@ -1,7 +1,3 @@
-[submodule "themes"]
-  path = themes
-  url = https://github.com/spf13/hugoThemes.git
-
 [submodule "public"]
   path = public
   url = https://github.com/BooneSeverson/booneseverson.github.io.git
