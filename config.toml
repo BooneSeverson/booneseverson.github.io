@@ -16,3 +16,4 @@ canonifyurls = true
 [params]
   copyright = "2016 Boone Severson"
   analytics = "UA-71889596-1"
+  logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Emoji_u1f64c.svg/128px-Emoji_u1f64c.svg.png"
