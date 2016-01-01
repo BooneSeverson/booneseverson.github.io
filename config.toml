@@ -11,8 +11,8 @@ canonifyurls = true
 [indexes]
   category = "categories"
 
+#  email = "boone.severson@gmail.com"
+#  facebook = "https://www.facebook.com/booneseverson"
 [params]
-  email = "boone.severson@gmail.com"
-  facebook = "https://www.facebook.com/booneseverson"
   copyright = "2016 Boone Severson"
   analytics = "UA-71889596-1"
